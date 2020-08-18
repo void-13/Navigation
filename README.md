@@ -1,2 +1,2 @@
 # Navigation
-A simple program in Python sowing navigation using Dictionaries
+A simple program in Python showing navigation using Dictionaries
